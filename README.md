@@ -10,6 +10,6 @@ By analyzing six months of sales data (January – June 2023), this project aims
 *   **Store Comparison:** Compare performance across the three different NYC locations.
 *   **Data-Driven Decisions:** Provide the franchise owner with clear visuals to support inventory and marketing strategies.
 
-##dataset used
+## Dataset used
 - <a href>"https://github.com/shettyvicky993-maker/Coffee-Shop-Sales-Analysis-Project/blob/main/Coffee%2BShop%2BSales.zip">Dataset</a>
 
