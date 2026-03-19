@@ -11,6 +11,5 @@ By analyzing six months of sales data (January – June 2023), this project aims
 *   **Data-Driven Decisions:** Provide the franchise owner with clear visuals to support inventory and marketing strategies.
 
 ## Dataset used
-- <a href>"https://github.com/shettyvicky993-maker/Coffee-Shop-Sales-Analysis-Project/blob/main/Coffee%20Shop%20Sales.xlsx">Dataset</a>
-- <a href"https://github.com/shettyvicky993-maker/Coffee-Shop-Sales-Analysis-Project/blob/main/Coffee%2BShop%2BSales.zip">Dataset</a>
+- <a href="https://github.com/shettyvicky993-maker/Coffee-Shop-Sales-Analysis-Project/blob/main/Coffee%2BShop%2BSales.zip">Dataset</a>
 
