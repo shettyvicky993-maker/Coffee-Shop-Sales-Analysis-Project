@@ -47,10 +47,9 @@ By analyzing six months of sales data (January – June 2023), this project aims
   - **Product vs Transactions** (Top Products)  
   - **Transaction vs Revenue** (Product Contribution)
 ---
-## 📷 Dashb<img width="1870" height="777" alt="coffee dashboard" src="https://github.com/user-attachments/assets/7c5dc734-1167-4b23-a280-2526f11fd880" />
+## 📷 Dashboard Preview
 <img width="1870" height="777" alt="coffee dashboard" src="https://github.com/user-attachments/assets/7c5dc734-1167-4b23-a280-2526f11fd880" />
-oard Preview  
-![Dashboard]()
+
 
 ---
 - **Revenue Trend:**  
