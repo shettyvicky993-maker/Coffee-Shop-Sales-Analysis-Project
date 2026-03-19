@@ -10,3 +10,5 @@ By analyzing six months of sales data (January – June 2023), this project aims
 *   **Store Comparison:** Compare performance across the three different NYC locations.
 *   **Data-Driven Decisions:** Provide the franchise owner with clear visuals to support inventory and marketing strategies.
 
+##dataset used
+-<a
